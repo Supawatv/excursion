@@ -1,15 +1,36 @@
 * {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Verdana, sans-serif;
+	color: gray;
+	text-align: center;
+	color: white;
+	font-weight: normal;
 }
 
 h1 {
-	color: SeaGreen;
+	font-size: 50px;
 }
 
-p, li {
-	font-size: 18px;
+h2 {
+	font-size: 42px;
+}
+
+p,
+li {
+	font-size: 21px;
+	color: gray;
 }
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
+	color: aquamarine;
+	font-size: 16;
+}
+
+body {
+	background-color: black;
+}
+
+h6.copyright {
+	text-align: right;
+	font-size: 21px
 }
